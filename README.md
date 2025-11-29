@@ -11,5 +11,3 @@
 - [travel cluster (Krungsri Hackathon)](https://travelcluster.app/register)
 - [data serialization project](https://petfolio.lol)
 - [vilapark](https://vilapark.app/signin)  
-  `username: manager`  
-  `password: 12345678`
